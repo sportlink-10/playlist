@@ -18,7 +18,7 @@ jobs:
       contents: write
 
     concurrency:
-      group: update-jtv2
+      group: ${{ github.workflow }}
       cancel-in-progress: true
 
     env:

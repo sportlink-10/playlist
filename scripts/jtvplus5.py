@@ -7,8 +7,8 @@ from datetime import datetime
 from urllib.parse import urlparse, parse_qs, urlunparse
 
 CHANNELS_URL = "https://sportlink10-ajp.pages.dev/jtv.json"
-COOKIE_URL = "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/cookie.json"
-SPORTS_COOKIE_URL = "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/sportcookie.json"
+COOKIE_URL = "https://raw.githubusercontent.com/sportlink-10/playlist/refs/heads/main/cookie.json"
+SPORTS_COOKIE_URL = "https://raw.githubusercontent.com/sportlink-10/playlist/refs/heads/main/sportcookie.json"
 
 USER_AGENT = "Virat🐐"
 REFERER = "https://www.jiotv.com/"

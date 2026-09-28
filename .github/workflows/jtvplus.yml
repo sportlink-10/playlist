@@ -97,7 +97,7 @@ jobs:
       - name: Workflow Summary
         run: |
           echo "📊 Workflow Summary:"
-          echo "  Repository: https://github.com/sportlive18/jio-tv-auto-update-playlist"
+          echo "  Repository: https://github.com/sportlink-10/playlist"
           echo "  File: jtvplus.m3u"
           echo "  Time: $(date +'%Y-%m-%d %H:%M:%S IST')"
           echo "  Status: ✅ Complete"

@@ -13,7 +13,7 @@ jobs:
   update-playlist:
     runs-on: ubuntu-latest
     concurrency:
-      group: update-playlist
+      group: ${{ github.workflow }}
       cancel-in-progress: false
     permissions:
       contents: write

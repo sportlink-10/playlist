@@ -11,7 +11,7 @@ on:
       - 'scripts/star3.py'
 
 concurrency:
-  group: update-playlist
+  group: ${{ github.workflow }}
   cancel-in-progress: false
 
 jobs:

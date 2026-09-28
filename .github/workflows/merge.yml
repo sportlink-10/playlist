@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: merge-playlist
+  group: ${{ github.workflow }}
   cancel-in-progress: false   # queue overlapping runs instead of racing each other
 
 jobs:

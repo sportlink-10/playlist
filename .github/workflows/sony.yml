@@ -18,7 +18,7 @@ jobs:
       contents: write
 
     concurrency:
-      group: update-sony
+      group: ${{ github.workflow }}
       cancel-in-progress: true
 
     env:
