@@ -782,17 +782,6 @@ https://premiumplug.fun/zee/zee5.php/0-9-tvpictureshd.m3u8
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
 https://premiumplug.fun/zee/zee5.php/0-9-pictures.m3u8
 
-# ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | SonyLiv ===---------------
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Qatar vs India - Volleyball - 29 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Qatar vs India - Volleyball - 29 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Qatar vs India - Volleyball - 29 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | SonyLiv",Qatar vs India - Volleyball - 29 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054
-
 # ------------=== ⛨ 𝔼𝕩𝕥𝕣𝕒 | FanCode ===---------------
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249529_53075_VCT-W_SAU-W_fc-web.jpg" group-title="⛨ 𝔼𝕩𝕥𝕣𝕒  | FanCode",ENGLISH - South Australian Scorpions vs Victoria Women
@@ -2218,8 +2207,8 @@ https://onekey.virey40690.workers.dev/mpd/1325
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1332
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790670504~exp=1790674104~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=ad4cb9b5babb13ca6d03642d98af7699d778203b86fa199b805aa8f1be71ddec","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790670504~exp=1790674104~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=ad4cb9b5babb13ca6d03642d98af7699d778203b86fa199b805aa8f1be71ddec
+#EXTHTTP:{"cookie":"st=1790674133~exp=1790677733~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=2652dbe4633bc59b56195afd3908ae8d930853e3d38ab4046b2cebcc942504ca","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790674133~exp=1790677733~acl=/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/*~hmac=2652dbe4633bc59b56195afd3908ae8d930853e3d38ab4046b2cebcc942504ca
 
 #EXTINF:-1 tvg-id="1335" group-title="JIO ⭕|English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png",National Geographic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3730,8 +3719,8 @@ https://onekey.virey40690.workers.dev/mpd/583
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/821
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790670789~exp=1790674389~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=17299612128fcb27fcc8425f58bd4a9ff0eb385d1eb5e15333ec45d39e6c7eef","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1790670789~exp=1790674389~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=17299612128fcb27fcc8425f58bd4a9ff0eb385d1eb5e15333ec45d39e6c7eef
+#EXTHTTP:{"cookie":"st=1790674294~exp=1790677894~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=057d35f4fd5c1d6de06028c8a7626351d9d7a2a9608439916790a903b08f68e7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1790674294~exp=1790677894~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=057d35f4fd5c1d6de06028c8a7626351d9d7a2a9608439916790a903b08f68e7
 
 #EXTINF:-1 tvg-id="871" group-title="JIO ⭕|Infotainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png",Jio Events HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4869,8 +4858,8 @@ https://onekey.virey40690.workers.dev/mpd/185
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/415
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790670192~exp=1790673792~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=abf5b9d96091945e89ea2ec40d472896205db4968fb3460240a1f292eac342ee","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790670192~exp=1790673792~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=abf5b9d96091945e89ea2ec40d472896205db4968fb3460240a1f292eac342ee
+#EXTHTTP:{"cookie":"st=1790673791~exp=1790677391~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=27dc97fd7c022acab7b02d1621186f75df0451cdc4589613ed63bb2026c1bfb7","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790673791~exp=1790677391~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=27dc97fd7c022acab7b02d1621186f75df0451cdc4589613ed63bb2026c1bfb7
 
 #EXTINF:-1 tvg-id="476" group-title="JIO ⭕|Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX.png",Sony Max HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4960,8 +4949,8 @@ https://onekey.virey40690.workers.dev/mpd/1477
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://onekey.virey40690.workers.dev/key/1668
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
-#EXTHTTP:{"cookie":"st=1790669718~exp=1790673318~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=1139c4b77db00507773d283a5da00832318b7e22885f40794a77fc5ad220a840","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
-https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790669718~exp=1790673318~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=1139c4b77db00507773d283a5da00832318b7e22885f40794a77fc5ad220a840
+#EXTHTTP:{"cookie":"st=1790673234~exp=1790676834~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=bc52b18093132e97ad45ed0b7fe913a4b4ed606d13615dd56e6ba3e6cc679909","Origin":"https://www.jiotv.com/","Referer":"https://www.jiotv.com/"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790673234~exp=1790676834~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=bc52b18093132e97ad45ed0b7fe913a4b4ed606d13615dd56e6ba3e6cc679909
 
 #EXTINF:-1 tvg-id="1691" group-title="JIO ⭕|Movies" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeClassicSD.png",Zee Classic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
