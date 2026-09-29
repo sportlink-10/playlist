@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:Live Events
-#LAST_UPDATE:02:31 AM 09-29-2026
+#LAST_UPDATE:02:50 AM 09-29-2026
 #Created by - Sayan 10
 #EXTINF:-1 tvg-id="12" tvg-name="One Day International: IND vs WI - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Cricket",One Day International: IND vs WI - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -118,27 +118,78 @@ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/sdddqQQ.m3u8
 
-#EXTINF:-1 tvg-id="395" tvg-name="Africa Cup of Nations Qual.: Central African Republic vs Burkina Faso - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Central African Republic vs Burkina Faso - GHD SPORTS SD
+#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW - RAW NETWORK 247" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="WWE",WWE Monday Night RAW - RAW NETWORK 247
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW - GHD SPORTS HD" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="WWE",WWE Monday Night RAW - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/YBBBAaaaqqq.m3u8
+
+#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW - RAW NETWORK HD" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="WWE",WWE Monday Night RAW - RAW NETWORK HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/wwe.html
+https://hlss.b-cdn.net/wwe/mono.ts.m3u8?token=d40c3728bbfb128f3daeac1d4e9bfe33
+
+#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW - RAW NETWORK SD" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="WWE",WWE Monday Night RAW - RAW NETWORK SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net
+https://chatgpt.hereisman.net/playlist/54800/load-playlist?&.m3u8
+
+#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW - HD QUALITY 1" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="WWE",WWE Monday Night RAW - HD QUALITY 1
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8
+
+#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW - HD QUALITY 2" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="WWE",WWE Monday Night RAW - HD QUALITY 2
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/2.m3u8
+
+#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW - HD QUALITY 3" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="WWE",WWE Monday Night RAW - HD QUALITY 3
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8
+
+#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW - HD QUALITY 4" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="WWE",WWE Monday Night RAW - HD QUALITY 4
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8
+
+#EXTINF:-1 tvg-id="389" tvg-name="WWE Monday Night RAW - HD QUALITY 5" tvg-logo="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg" group-title="WWE",WWE Monday Night RAW - HD QUALITY 5
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8
+
+#EXTINF:-1 tvg-id="395" tvg-name="Africa Cup of Nations Qual.: Comoros vs Namibia - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Comoros vs Namibia - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/e0f4d21e-7718-436d-a627-b4a00f234e81.m3u8
 
-#EXTINF:-1 tvg-id="395" tvg-name="Africa Cup of Nations Qual.: Central African Republic vs Burkina Faso - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Central African Republic vs Burkina Faso - GHD SPORTS HD
+#EXTINF:-1 tvg-id="395" tvg-name="Africa Cup of Nations Qual.: Comoros vs Namibia - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Comoros vs Namibia - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/H666.m3u8
 
-#EXTINF:-1 tvg-id="440" tvg-name="Africa Cup of Nations Qual.: Equatorial Guinea vs Sierra Leone - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Equatorial Guinea vs Sierra Leone - BeIN SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/4abc7e13-7648-4273-a18c-6afde99ede50.m3u8
-
-#EXTINF:-1 tvg-id="440" tvg-name="Africa Cup of Nations Qual.: Equatorial Guinea vs Sierra Leone - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Equatorial Guinea vs Sierra Leone - GHD SPORTS HD
+#EXTINF:-1 tvg-id="441" tvg-name="Africa Cup of Nations Qual.: Ethiopia vs Senegal - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Ethiopia vs Senegal - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.41/hls/H666Q.m3u8
+http://193.47.62.55/hls/HVVVVAA.m3u8
+
+#EXTINF:-1 tvg-id="441" tvg-name="Africa Cup of Nations Qual.: Ethiopia vs Senegal - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Ethiopia vs Senegal - BeIN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/AGGGQ.m3u8
 
 #EXTINF:-1 tvg-id="739" tvg-name="Premier League: Arsenal vs Leeds - FUBO SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/17/image/dark" group-title="Football",Premier League: Arsenal vs Leeds - FUBO SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -592,30 +643,12 @@ https://chatgpt.hereisman.net/playlist/56802/load-playlist
 #EXTVLCOPT:http-origin=https://streamscenter.online
 https://edgestream1.pro/hls/377qj1h2727.m3u8
 
-#EXTINF:-1 tvg-id="758" tvg-name="Asian Games: PAK vs HK - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: PAK vs HK - Willow Cricbuzz - AQ
+#EXTINF:-1 tvg-id="760" tvg-name="Asian Games: SL vs NEP - Willow Cricbuzz - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: SL vs NEP - Willow Cricbuzz - AQ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd
-
-#EXTINF:-1 tvg-id="758" tvg-name="Asian Games: PAK vs HK - TAPMAD ENG- AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: PAK vs HK - TAPMAD ENG- AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://tapmad.com
-https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="758" tvg-name="Asian Games: PAK vs HK - PTV SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: PAK vs HK - PTV SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://live.incableinternet.com/ptv-sports/720p.m3u8
-
-#EXTINF:-1 tvg-id="760" tvg-name="Asian Games: SL vs NEP - Willow Cricbuzz AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: SL vs NEP - Willow Cricbuzz AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bf67287e378212a80fc35288f2d1b17:160eca864d89bdff4e8f1256ba7646ec
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/idczxkgq7l/out/v1/169a00dcc2444e119f18bb2638b0e368/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=72a6cfc603b0415a8edb3d191a1f718c:2868c3c10c569817643cbe43a92b4bdf
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7tdlacjghx/out/v1/78b77b2cd769444c8e477f9335363a18/cenc.mpd
 
 #EXTINF:-1 tvg-id="760" tvg-name="Asian Games: SL vs NEP - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: SL vs NEP - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -623,13 +656,13 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
 #EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/AG_DXcri2509/ENG/master.m3u8
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/ag_dxcri2809/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="760" tvg-name="Asian Games: SL vs NEP - Willow Cricbuzz HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: SL vs NEP - Willow Cricbuzz HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/sddd.m3u8
+http://193.47.62.50/hls/YBBBAa.m3u8
 
 #EXTINF:-1 tvg-id="761" tvg-name="Asian Games: BAN vs MAS - Willow cricket FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Cricket",Asian Games: BAN vs MAS - Willow cricket FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -650,7 +683,7 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/AG_DXcri2509/ENG/master.
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/sddd.m3u8
+http://193.47.62.50/hls/YBBBAa.m3u8
 
 #EXTINF:-1 tvg-id="764" tvg-name="Bundesliga: Union Berlin vs Elversberg - SPORT TV - FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/35/image/dark" group-title="Football",Bundesliga: Union Berlin vs Elversberg - SPORT TV - FHD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -858,23 +891,6 @@ http://193.47.62.59/hls/BB55AAAAAAA.m3u8
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/add98371-b40a-4c3d-bc85-bd00e69df78c.m3u8
-
-#EXTINF:-1 tvg-id="831" tvg-name="International Friendly Games: Kyrgyzstan vs Maldives - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Kyrgyzstan vs Maldives - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/NUUUQQQ.m3u8
-
-#EXTINF:-1 tvg-id="856" tvg-name="International Friendly Games: South Korea vs Uruguay - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: South Korea vs Uruguay - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/NUUUQQQQ.m3u8
-
-#EXTINF:-1 tvg-id="856" tvg-name="International Friendly Games: South Korea vs Uruguay - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: South Korea vs Uruguay - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://www.rtmpcdn.com/live/3fa46661-9052-4514-b242-da788c0b4900.m3u8
 
 #EXTINF:-1 tvg-id="858" tvg-name="International Friendly Games: Australia vs Brazil - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Football",International Friendly Games: Australia vs Brazil - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
@@ -1144,83 +1160,39 @@ http://193.47.62.50/hls/K999A.m3u8
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-bp-livestream.rumsport10.live/sla/1-6a9841285d79ffdae2c3e57d-fancode/index.m3u8?is_vip=true&token=40242ec08c3ddf3e9d72332677af1e6a57324944&x-sign=0461d530d21749cdca4d9945ddef47dc&x-time=1790523000
 
-#EXTINF:-1 tvg-id="1075" tvg-name="ASEAN Cup: Bangladesh vs Singapore - GHD SPORTS AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football",ASEAN Cup: Bangladesh vs Singapore - GHD SPORTS AQ
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c7b6aaca62d4dc59567656b371eaa21:253951f121461cbb6b8aac526438b368
-https://tglmp02.akamaized.net/out/v1/8e5c0396bfbc4a668fac323649dc6aa1/manifest.mpd
-
-#EXTINF:-1 tvg-id="1075" tvg-name="ASEAN Cup: Bangladesh vs Singapore - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football",ASEAN Cup: Bangladesh vs Singapore - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://soco.domainkqt.cc/
-https://live2.zundrixmediapipeline.com/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="1075" tvg-name="ASEAN Cup: Bangladesh vs Singapore - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football",ASEAN Cup: Bangladesh vs Singapore - GHD SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/NUUUX.m3u8
-
-#EXTINF:-1 tvg-id="1075" tvg-name="ASEAN Cup: Bangladesh vs Singapore - ISCREEN ENG HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football",ASEAN Cup: Bangladesh vs Singapore - ISCREEN ENG HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-#EXTVLCOPT:http-origin=https://iscreen.com.bd
-https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8
-
-#EXTINF:-1 tvg-id="1075" tvg-name="ASEAN Cup: Bangladesh vs Singapore - Tapmad ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football",ASEAN Cup: Bangladesh vs Singapore - Tapmad ENG - AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://tapmad.com/
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-
-#EXTINF:-1 tvg-id="1076" tvg-name="ASEAN Cup: Malaysia vs Indonesia - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football",ASEAN Cup: Malaysia vs Indonesia - GHD SPORTS HD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-http://193.47.62.55/hls/NUUUQQQQQ.m3u8
-
-#EXTINF:-1 tvg-id="1076" tvg-name="ASEAN Cup: Malaysia vs Indonesia - Tapmad ENG - AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Football",ASEAN Cup: Malaysia vs Indonesia - Tapmad ENG - AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://tapmad.com/
-https://saseries.akamaized.net/hls/live/2110097/tapmad123321/master.m3u8
-
-#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Armenia vs Montenegro - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Armenia vs Montenegro - BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Finland vs Belarus - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Finland vs Belarus - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Armenia vs Montenegro - FOX SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Armenia vs Montenegro - FOX SPORTS FHD
+#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Finland vs Belarus - FOX SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Finland vs Belarus - FOX SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Armenia vs Montenegro - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Armenia vs Montenegro - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Finland vs Belarus - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Finland vs Belarus - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/H666QQQ.m3u8
 
-#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Armenia vs Montenegro - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Armenia vs Montenegro - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Finland vs Belarus - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Finland vs Belarus - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/c477a054-52a2-4d83-ac16-5ea8f3fd48cf.m3u8
 
-#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Armenia vs Montenegro - SPORT CZ FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Armenia vs Montenegro - SPORT CZ FHD
+#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Finland vs Belarus - SPORT CZ FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Finland vs Belarus - SPORT CZ FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Armenia vs Montenegro - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Armenia vs Montenegro - SonyLiv ENG AQ
+#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Finland vs Belarus - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Finland vs Belarus - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -1228,14 +1200,14 @@ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/unl_arme2809/ENG/master.m3u8
 
-#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Armenia vs Montenegro - FOX SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Armenia vs Montenegro - FOX SPORTS HD
+#EXTINF:-1 tvg-id="1080" tvg-name="UEFA Nations League: Finland vs Belarus - FOX SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Finland vs Belarus - FOX SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Georgia vs Ukraine - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Georgia vs Ukraine - BeIN SPORTS FHD
+#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Moldova vs Faroe Islands - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Moldova vs Faroe Islands - BeIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1243,25 +1215,25 @@ https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Georgia vs Ukraine - SPORTV2 BR FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Georgia vs Ukraine - SPORTV2 BR FHD
+#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Moldova vs Faroe Islands - SPORTV2 BR FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Moldova vs Faroe Islands - SPORTV2 BR FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Georgia vs Ukraine - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Georgia vs Ukraine - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Moldova vs Faroe Islands - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Moldova vs Faroe Islands - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/H666QQQQQ.m3u8
 
-#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Georgia vs Ukraine - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Georgia vs Ukraine - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Moldova vs Faroe Islands - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Moldova vs Faroe Islands - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/517911fe-b46d-424e-9a42-c0ef362a3649.m3u8
 
-#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Georgia vs Ukraine - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Georgia vs Ukraine - SonyLiv ENG AQ
+#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Moldova vs Faroe Islands - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Moldova vs Faroe Islands - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -1269,20 +1241,20 @@ https://www.rtmpcdn.com/live/517911fe-b46d-424e-9a42-c0ef362a3649.m3u8
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/unl_geor2809/ENG/master.m3u8
 
-#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Georgia vs Ukraine - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Georgia vs Ukraine - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="1081" tvg-name="UEFA Nations League: Moldova vs Faroe Islands - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Moldova vs Faroe Islands - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
 
-#EXTINF:-1 tvg-id="1082" tvg-name="UEFA Nations League: Latvia vs Cyprus - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Latvia vs Cyprus - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1082" tvg-name="UEFA Nations League: Spain vs Croatia - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Spain vs Croatia - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/H666QQQQ.m3u8
 
-#EXTINF:-1 tvg-id="1082" tvg-name="UEFA Nations League: Latvia vs Cyprus - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Latvia vs Cyprus - SonyLiv ENG AQ
+#EXTINF:-1 tvg-id="1082" tvg-name="UEFA Nations League: Spain vs Croatia - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Spain vs Croatia - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -1290,19 +1262,19 @@ http://193.47.62.59/hls/H666QQQQ.m3u8
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/unl_latv2809/ENG/master.m3u8
 
-#EXTINF:-1 tvg-id="1082" tvg-name="UEFA Nations League: Latvia vs Cyprus - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Latvia vs Cyprus - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1082" tvg-name="UEFA Nations League: Spain vs Croatia - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Spain vs Croatia - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/f4776a69-82e8-4266-b0d2-48b5befae576.m3u8
 
-#EXTINF:-1 tvg-id="1082" tvg-name="UEFA Nations League: Latvia vs Cyprus - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Latvia vs Cyprus - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="1082" tvg-name="UEFA Nations League: Spain vs Croatia - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Spain vs Croatia - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
 
-#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Belgium vs France - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Belgium vs France - BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Czechia vs England - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Czechia vs England - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1310,14 +1282,14 @@ https://edgestream2.pro/hls/eJmauBDCIf.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Belgium vs France - FOX SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Belgium vs France - FOX SPORTS FHD
+#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Czechia vs England - FOX SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Czechia vs England - FOX SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Belgium vs France - FOX SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Belgium vs France - FOX SPORTS HD
+#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Czechia vs England - FOX SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Czechia vs England - FOX SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -1325,7 +1297,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 #EXTVLCOPT:http-origin=https://streame.center
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 
-#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Belgium vs France - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Belgium vs France - SonyLiv ENG AQ
+#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Czechia vs England - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Czechia vs England - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -1333,51 +1305,51 @@ https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/Footlive2809/ENG/master.m3u8
 
-#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Belgium vs France - ESPN ARG FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Belgium vs France - ESPN ARG FHD
+#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Czechia vs England - ESPN ARG FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Czechia vs England - ESPN ARG FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
-#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Belgium vs France - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Belgium vs France - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Czechia vs England - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Czechia vs England - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/AGGGQQ.m3u8
 
-#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Belgium vs France - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Belgium vs France - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Czechia vs England - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Czechia vs England - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/AGGGQQQ.m3u8
 
-#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Belgium vs France - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Belgium vs France - FAST SERVER HD
+#EXTINF:-1 tvg-id="1083" tvg-name="UEFA Nations League: Czechia vs England - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Czechia vs England - FAST SERVER HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/belgium-vs-france/
 https://fingersoon.st/scripts/application1
 
-#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Northern Ireland vs Hungary - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Northern Ireland vs Hungary - BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Scotland vs Switzerland - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Scotland vs Switzerland - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Northern Ireland vs Hungary - SPORT TV BR FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Northern Ireland vs Hungary - SPORT TV BR FHD
+#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Scotland vs Switzerland - SPORT TV BR FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Scotland vs Switzerland - SPORT TV BR FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Northern Ireland vs Hungary - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Northern Ireland vs Hungary - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Scotland vs Switzerland - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Scotland vs Switzerland - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/DIIIAA.m3u8
 
-#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Northern Ireland vs Hungary - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Northern Ireland vs Hungary - SonyLiv ENG AQ
+#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Scotland vs Switzerland - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Scotland vs Switzerland - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -1385,58 +1357,58 @@ http://193.47.62.50/hls/DIIIAA.m3u8
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/Footlive2809/ENG/master.m3u8
 
-#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Northern Ireland vs Hungary - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Northern Ireland vs Hungary - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Scotland vs Switzerland - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Scotland vs Switzerland - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/df76e533-de1c-4227-af03-204bb80fda46.m3u8
 
-#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Northern Ireland vs Hungary - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Northern Ireland vs Hungary - FUBO SPORTS HD
+#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Scotland vs Switzerland - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Scotland vs Switzerland - FUBO SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-28/nir-hun
 https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-28/nir-hun/playlist.m3u8?tk=dlY7PghAgg7T_AZ5c0EMvQ&e=1790663433
 
-#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Northern Ireland vs Hungary - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Northern Ireland vs Hungary - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="1084" tvg-name="UEFA Nations League: Scotland vs Switzerland - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Scotland vs Switzerland - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/griogoehvn2.m3u8
 
-#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Romania vs Bosnia & Herzegovina - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Romania vs Bosnia & Herzegovina - FUBO SPORTS HD
+#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Bulgaria vs Estonia - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Bulgaria vs Estonia - FUBO SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-28/rou-bih
 https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-28/rou-bih/playlist.m3u8?tk=SWtzkcU7Zj28ne-PaXeoIw&e=1790663434
 
-#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Romania vs Bosnia & Herzegovina - DAZN SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Romania vs Bosnia & Herzegovina - DAZN SPORTS SD
+#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Bulgaria vs Estonia - DAZN SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Bulgaria vs Estonia - DAZN SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401861078
 https://instreams.live/live/tv401861078/index.m3u8?st=X8nbK0MAvgeixuJAARDe5Q&e=1790631036
 
-#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Romania vs Bosnia & Herzegovina - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Romania vs Bosnia & Herzegovina - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Bulgaria vs Estonia - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Bulgaria vs Estonia - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/DIIIA.m3u8
 
-#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Romania vs Bosnia & Herzegovina - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Romania vs Bosnia & Herzegovina - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Bulgaria vs Estonia - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Bulgaria vs Estonia - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/622ba94a-511c-4a11-853b-adcc688e85b2.m3u8
 
-#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Romania vs Bosnia & Herzegovina - FUBO SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Romania vs Bosnia & Herzegovina - FUBO SPORTS SD
+#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Bulgaria vs Estonia - FUBO SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Bulgaria vs Estonia - FUBO SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/soccer-4.html
 https://eu-hlss.b-cdn.net/fubosn2/mono.ts.m3u8?token=5b6af0199dbde50afed4aac3355c9f0a
 
-#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Romania vs Bosnia & Herzegovina - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Romania vs Bosnia & Herzegovina - SonyLiv ENG AQ
+#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Bulgaria vs Estonia - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Bulgaria vs Estonia - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -1444,28 +1416,28 @@ https://eu-hlss.b-cdn.net/fubosn2/mono.ts.m3u8?token=5b6af0199dbde50afed4aac3355
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive2809/ENG/master.m3u8
 
-#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Romania vs Bosnia & Herzegovina - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Romania vs Bosnia & Herzegovina - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="1086" tvg-name="UEFA Nations League: Bulgaria vs Estonia - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Bulgaria vs Estonia - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
 
-#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Sweden vs Poland - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Sweden vs Poland - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Luxembourg vs Iceland - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Luxembourg vs Iceland - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401861080
 https://instreams.live/live/tv401861080/index.m3u8?st=gvrohp28JejTgOquG_fQ4A&e=1790631037
 
-#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Sweden vs Poland - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Sweden vs Poland - FUBO SPORTS HD
+#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Luxembourg vs Iceland - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Luxembourg vs Iceland - FUBO SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-28/swe-pol
 https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-28/swe-pol/playlist.m3u8?tk=SWtzkcU7Zj28ne-PaXeoIw&e=1790663434
 
-#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Sweden vs Poland - FOX SCORE+ HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Sweden vs Poland - FOX SCORE+ HD
+#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Luxembourg vs Iceland - FOX SCORE+ HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Luxembourg vs Iceland - FOX SCORE+ HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -1473,13 +1445,13 @@ https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-28/swe-pol/
 #EXTVLCOPT:http-origin=https://streame.center
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
 
-#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Sweden vs Poland - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Sweden vs Poland - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Luxembourg vs Iceland - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Luxembourg vs Iceland - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.41/hls/AGGG.m3u8
 
-#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Sweden vs Poland - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Sweden vs Poland - SonyLiv ENG AQ
+#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Luxembourg vs Iceland - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Luxembourg vs Iceland - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -1487,37 +1459,37 @@ http://193.47.62.41/hls/AGGG.m3u8
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/Footlive2809/ENG/master.m3u8
 
-#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Sweden vs Poland - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Sweden vs Poland - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Luxembourg vs Iceland - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Luxembourg vs Iceland - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/9167a56b-35b3-4a5b-9668-f4c57a401284.m3u8
 
-#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Sweden vs Poland - FOX SCORE+ SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Sweden vs Poland - FOX SCORE+ SD
+#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Luxembourg vs Iceland - FOX SCORE+ SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Luxembourg vs Iceland - FOX SCORE+ SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.55/hls/AGGGQQQQ.m3u8
 
-#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Sweden vs Poland - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Sweden vs Poland - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Luxembourg vs Iceland - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Luxembourg vs Iceland - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
 
-#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Sweden vs Poland - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Sweden vs Poland - FAST SERVER HD
+#EXTINF:-1 tvg-id="1087" tvg-name="UEFA Nations League: Luxembourg vs Iceland - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Luxembourg vs Iceland - FAST SERVER HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/sweden-vs-poland/
 https://fingersoon.st/scripts/application3
 
-#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: TÃ¼rkiye vs Italy - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: TÃ¼rkiye vs Italy - BEIN SPORTS FHD
+#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: Slovakia vs Kazakhstan - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovakia vs Kazakhstan - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
-#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: TÃ¼rkiye vs Italy - SPORT TV BR FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: TÃ¼rkiye vs Italy - SPORT TV BR FHD
+#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: Slovakia vs Kazakhstan - SPORT TV BR FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovakia vs Kazakhstan - SPORT TV BR FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1525,7 +1497,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
-#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: TÃ¼rkiye vs Italy - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: TÃ¼rkiye vs Italy - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: Slovakia vs Kazakhstan - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovakia vs Kazakhstan - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
@@ -1533,13 +1505,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1
 #EXTVLCOPT:http-origin=https://streame.center
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
 
-#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: TÃ¼rkiye vs Italy - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: TÃ¼rkiye vs Italy - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: Slovakia vs Kazakhstan - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovakia vs Kazakhstan - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.59/hls/AGGGQ.m3u8
 
-#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: TÃ¼rkiye vs Italy - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: TÃ¼rkiye vs Italy - SonyLiv ENG AQ
+#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: Slovakia vs Kazakhstan - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovakia vs Kazakhstan - SonyLiv ENG AQ
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
@@ -1547,65 +1519,220 @@ http://193.47.62.59/hls/AGGGQ.m3u8
 #EXTVLCOPT:http-origin=https://www.sonyliv.com
 https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive2809/ENG/master.m3u8
 
-#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: TÃ¼rkiye vs Italy - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: TÃ¼rkiye vs Italy - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: Slovakia vs Kazakhstan - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovakia vs Kazakhstan - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/5056701c-e70a-43c9-bda0-498093d07ad0.m3u8
 
-#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: TÃ¼rkiye vs Italy - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: TÃ¼rkiye vs Italy - FUBO SPORTS HD
+#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: Slovakia vs Kazakhstan - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovakia vs Kazakhstan - FUBO SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-28/tur-ita
 https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-28/tur-ita/playlist.m3u8?tk=SWtzkcU7Zj28ne-PaXeoIw&e=1790663434
 
-#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: TÃ¼rkiye vs Italy - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: TÃ¼rkiye vs Italy - DAZN SPORTS HD
+#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: Slovakia vs Kazakhstan - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovakia vs Kazakhstan - DAZN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
 
-#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: TÃ¼rkiye vs Italy - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: TÃ¼rkiye vs Italy - FAST SERVER HD
+#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: Slovakia vs Kazakhstan - FAST SERVER HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovakia vs Kazakhstan - FAST SERVER HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/turkey-vs-italy/
 https://fingersoon.st/scripts/application2
 
-#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: TÃ¼rkiye vs Italy - DAZN SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: TÃ¼rkiye vs Italy - DAZN SPORTS SD
+#EXTINF:-1 tvg-id="1088" tvg-name="UEFA Nations League: Slovakia vs Kazakhstan - DAZN SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovakia vs Kazakhstan - DAZN SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401861077
 https://instreams.pro/live/tv401861077/index.m3u8?st=d6mVZ9ho_-w9aIv2Agt_Kg&e=1790631038
 
-#EXTINF:-1 tvg-id="1089" tvg-name="Africa Cup of Nations Qual.: Zimbabwe vs DR Congo - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Zimbabwe vs DR Congo - BeIN SPORTS FHD
+#EXTINF:-1 tvg-id="1089" tvg-name="Africa Cup of Nations Qual.: Burundi vs Algeria - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Burundi vs Algeria - BeIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 tvg-id="1089" tvg-name="Africa Cup of Nations Qual.: Zimbabwe vs DR Congo - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Zimbabwe vs DR Congo - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1089" tvg-name="Africa Cup of Nations Qual.: Burundi vs Algeria - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Burundi vs Algeria - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.44/hls/H666QQ.m3u8
 
-#EXTINF:-1 tvg-id="1089" tvg-name="Africa Cup of Nations Qual.: Zimbabwe vs DR Congo - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Zimbabwe vs DR Congo - BeIN SPORTS HD
+#EXTINF:-1 tvg-id="1089" tvg-name="Africa Cup of Nations Qual.: Burundi vs Algeria - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Burundi vs Algeria - BeIN SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/8162559c-7b2c-4f12-af04-93655690c205.m3u8
 
-#EXTINF:-1 tvg-id="1090" tvg-name="Africa Cup of Nations Qual.: Botswana vs Tunisia - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Botswana vs Tunisia - GHD SPORTS HD
+#EXTINF:-1 tvg-id="1090" tvg-name="Africa Cup of Nations Qual.: Lesotho vs Morocco - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Lesotho vs Morocco - GHD SPORTS HD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 http://193.47.62.50/hls/DIIIAAAA.m3u8
 
-#EXTINF:-1 tvg-id="1090" tvg-name="Africa Cup of Nations Qual.: Botswana vs Tunisia - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Botswana vs Tunisia - GHD SPORTS SD
+#EXTINF:-1 tvg-id="1090" tvg-name="Africa Cup of Nations Qual.: Lesotho vs Morocco - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Lesotho vs Morocco - GHD SPORTS SD
 #KODIPROP:inputstream=inputstream.ffmpeg
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://www.rtmpcdn.com/live/5465f3e2-5af7-4fc4-ab1e-84964c2ace61.m3u8
+
+#EXTINF:-1 tvg-id="1091" tvg-name="Africa Cup of Nations Qual.: South Sudan vs Egypt - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: South Sudan vs Egypt - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/DTTTAAAA.m3u8
+
+#EXTINF:-1 tvg-id="1091" tvg-name="Africa Cup of Nations Qual.: South Sudan vs Egypt - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: South Sudan vs Egypt - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://play.aarray.cn/rrty/sd-1-4642692_gqzm.m3u8?auth_key=1790366477-0-0-c26f447bdd9b15f26059bfc084d3dd07&token=dfafa5a1a14b01c2&device=4&platform=rrty
+
+#EXTINF:-1 tvg-id="1092" tvg-name="Africa Cup of Nations Qual.: Mozambique vs Sudan - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Mozambique vs Sudan - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.rtmpcdn.com/live/4c83a480-06a7-4ab1-a8a0-ca20cde631a6.m3u8
+
+#EXTINF:-1 tvg-id="1092" tvg-name="Africa Cup of Nations Qual.: Mozambique vs Sudan - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Mozambique vs Sudan - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.50/hls/DTTTAA.m3u8
+
+#EXTINF:-1 tvg-id="1093" tvg-name="Africa Cup of Nations Qual.: Madagascar vs Tanzania - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Madagascar vs Tanzania - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.55/hls/DTTTAAA.m3u8
+
+#EXTINF:-1 tvg-id="1094" tvg-name="Africa Cup of Nations Qual.: Cabo Verde vs Rwanda - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Cabo Verde vs Rwanda - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/FAFAFAFAZQQQ.m3u8
+
+#EXTINF:-1 tvg-id="1094" tvg-name="Africa Cup of Nations Qual.: Cabo Verde vs Rwanda - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Football",Africa Cup of Nations Qual.: Cabo Verde vs Rwanda - BeIN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.rtmpcdn.com/live/4a2a0066-700c-4fb1-8b3a-9db109eeab6e.m3u8
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - BeIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - BeIN SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-origin=https://amazon.com
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - FOX SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - FOX SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - ONE SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - ONE SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+https://hey.futbol-tv.online/esp/index.m3u8
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - BeIN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - BeIN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+https://hey.futbol-tv.online/ar/index.m3u8
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - FOX SPORTS LQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - FOX SPORTS LQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+https://hey.futbol-tv.online/en/index.m3u8
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - FOX SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - FOX SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-26/eng-esp
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-26/eng-esp/playlist.m3u8?tk=GEaTjSNHsNxB_Jpl7U994w&e=1790490667
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - SonyLive ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - SonyLive ENG AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/UNL_engv2609/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.41/hls/DKKKAAAA.m3u8
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - ESPN ARG FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - ESPN ARG FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - FOX SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - FOX SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8
+
+#EXTINF:-1 tvg-id="1096" tvg-name="UEFA Nations League: Slovenia vs North Macedonia - GHD SPORTS SD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: Slovenia vs North Macedonia - GHD SPORTS SD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401861066
+https://instreams.live/live/tv401861066/index.m3u8?st=zJDD4FqEQEmocaWRYgeBRA&e=1790458274
+
+#EXTINF:-1 tvg-id="1097" tvg-name="UEFA Nations League: San Marino vs Albania - DAZN SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: San Marino vs Albania - DAZN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://instream.click/livetv.php?stream=tv401861064
+https://instreams.pro/live/tv401861064/index.m3u8?st=Y4gsQyWnjTlZacSlOP6kWw&e=1790458277
+
+#EXTINF:-1 tvg-id="1097" tvg-name="UEFA Nations League: San Marino vs Albania - FUBO SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: San Marino vs Albania - FUBO SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-26/svk-mda
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-26/svk-mda/playlist.m3u8?tk=GEaTjSNHsNxB_Jpl7U994w&e=1790490667
+
+#EXTINF:-1 tvg-id="1097" tvg-name="UEFA Nations League: San Marino vs Albania - SonyLiv ENG AQ" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: San Marino vs Albania - SonyLiv ENG AQ
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-origin=https://www.sonyliv.com
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/Footlive2609/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="1097" tvg-name="UEFA Nations League: San Marino vs Albania - GHD SPORTS HD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: San Marino vs Albania - GHD SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+http://193.47.62.44/hls/DKKKA.m3u8
+
+#EXTINF:-1 tvg-id="1097" tvg-name="UEFA Nations League: San Marino vs Albania - HD SERVER" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/10783/image/dark" group-title="Football",UEFA Nations League: San Marino vs Albania - HD SERVER
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+https://edgestream2.pro/hls/griogoehvn2.m3u8
 
 #EXTINF:-1 tvg-id="770" tvg-name="Serie A: Inter vs Parma - BEIN SPORTS FHD" tvg-logo="https://api.sofascore.com/api/v1/unique-tournament/23/image/dark" group-title="Football",Serie A: Inter vs Parma - BEIN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
