@@ -23,7 +23,7 @@ export async function onRequest(context) {
     return new Response('Access Denied - Region Blocked', { status: 403 });
   }
 
-  // .json — sirf allowed domains se fetch ho
+  // .json — strict allowed domains only
   if (url.pathname.endsWith('.json')) {
     const referer = request.headers.get('Referer') || '';
     const allowed = [
@@ -33,9 +33,8 @@ export async function onRequest(context) {
     ];
     const isAllowed = allowed.some(d => referer.includes(d));
 
-    // Referer empty = page itself se request (same site fetch) = allow
-    // Referer set but not in allowed = block
-    if (referer && !isAllowed) {
+    // Empty referer bhi block
+    if (!isAllowed) {
       return new Response('403 - Forbidden', { status: 403 });
     }
   }
