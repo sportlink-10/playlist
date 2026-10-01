@@ -22,9 +22,29 @@ export async function onRequest(context) {
     return new Response('Access Denied - Region Blocked', { status: 403 });
   }
 
-  // .json block
+  // .json block with whitelist
   if (url.pathname.endsWith('.json')) {
-    return new Response('403 - Forbidden', { status: 403 });
+    const ALLOWED_JSON_ORIGINS = [
+      'sportlink10-ajp.pages.dev',
+      'sayan-starsport.pages.dev',
+      'sayan-jtv.pages.dev',
+    ];
+
+    const referer = request.headers.get('Referer') || '';
+    const origin  = request.headers.get('Origin')  || '';
+
+    const isAllowed = ALLOWED_JSON_ORIGINS.some(domain => {
+      const pattern = 'https://' + domain;
+      return (
+        origin  === pattern ||
+        referer === pattern ||
+        referer.startsWith(pattern + '/')
+      );
+    });
+
+    if (!isAllowed) {
+      return new Response('403 - Forbidden', { status: 403 });
+    }
   }
 
   return context.next();
