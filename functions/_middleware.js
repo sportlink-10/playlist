@@ -1,10 +1,16 @@
-const SECRET = 'sportlink2024xyz';
-
 export async function onRequest(context) {
   const request = context.request;
   const url = new URL(request.url);
   const ua = request.headers.get('User-Agent') || '';
   const country = request.cf?.country;
+  const ip = request.headers.get('CF-Connecting-IP');
+  const city = request.cf?.city;
+
+  console.log(JSON.stringify({
+    ip, country, city, ua,
+    path: url.pathname,
+    time: new Date().toISOString()
+  }));
 
   // Bot block
   if (!ua.includes('Mozilla')) {
@@ -16,24 +22,9 @@ export async function onRequest(context) {
     return new Response('Access Denied - Region Blocked', { status: 403 });
   }
 
-  // Token check
-  if (url.pathname.endsWith('.m3u') || url.pathname.endsWith('.json')) {
-    const token = url.searchParams.get('token');
-    const ts = url.searchParams.get('ts');
-
-    if (!token || !ts) {
-      return new Response('403 - Missing Token', { status: 403 });
-    }
-
-    const now = Date.now();
-    if (now - parseInt(ts) > 3600000) {
-      return new Response('403 - Token Expired', { status: 403 });
-    }
-
-    const expected = btoa(`${SECRET}:${ts}`).replace(/=/g, '');
-    if (token !== expected) {
-      return new Response('403 - Invalid Token', { status: 403 });
-    }
+  // .json block
+  if (url.pathname.endsWith('.json')) {
+    return new Response('403 - Forbidden', { status: 403 });
   }
 
   return context.next();
