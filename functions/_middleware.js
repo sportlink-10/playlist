@@ -9,6 +9,7 @@ export async function onRequest(context) {
   console.log(JSON.stringify({
     ip, country, city, ua,
     path: url.pathname,
+    referer: request.headers.get('Referer') || '',
     time: new Date().toISOString()
   }));
 
@@ -22,7 +23,7 @@ export async function onRequest(context) {
     return new Response('Access Denied - Region Blocked', { status: 403 });
   }
 
-  // .json — sirf allowed domains se
+  // .json — sirf allowed domains se fetch ho
   if (url.pathname.endsWith('.json')) {
     const referer = request.headers.get('Referer') || '';
     const allowed = [
@@ -31,7 +32,10 @@ export async function onRequest(context) {
       'sayan-jtv.pages.dev',
     ];
     const isAllowed = allowed.some(d => referer.includes(d));
-    if (!isAllowed) {
+
+    // Referer empty = page itself se request (same site fetch) = allow
+    // Referer set but not in allowed = block
+    if (referer && !isAllowed) {
       return new Response('403 - Forbidden', { status: 403 });
     }
   }
