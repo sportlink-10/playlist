@@ -2,59 +2,9 @@
   "total_channels": 81,
   "successful_channels": 0,
   "failed_channels": 81,
-  "timestamp": "2026-10-01 20:35:07",
+  "timestamp": "2026-10-01 21:00:28",
   "successful_results": [],
   "failed_results": [
-    {
-      "channel_id": "415",
-      "channel_name": "Zee Anmol Cinema",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790885196~exp=1790888796~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=dc0821de1cf1f0e1aab98b414bfacc17df79df9effb83f731fd17c82973d6d45"
-      }
-    },
-    {
-      "channel_id": "3096",
-      "channel_name": "Star Gold 2 HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790883742~exp=1790887342~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=a7123ccaf380e4262f7fc9dbe69d633da82398999b50ea18d98cde08dcdc8583"
-      }
-    },
-    {
-      "channel_id": "146",
-      "channel_name": "History TV18 HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884987~exp=1790888587~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6091b84c7b6dbaaff4f9170c9fb4a930d88722cadc874f515140f2e12a39ca2c"
-      }
-    },
-    {
-      "channel_id": "167",
-      "channel_name": "Zee TV HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884094~exp=1790887694~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=ce95af53959afd85b508a5356fa23a98a4f2602848170776748f0da76bb3fa19"
-      }
-    },
-    {
-      "channel_id": "164",
-      "channel_name": "Travelxp HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884987~exp=1790888587~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=ae86b0ba888b8ba9e8e40a93d82d1ba47cd41d00012ff9d29740f891b98eb135"
-      }
-    },
     {
       "channel_id": "1332",
       "channel_name": "Nat Geo Wild HD",
@@ -66,33 +16,33 @@
       }
     },
     {
+      "channel_id": "1335",
+      "channel_name": "National Geographic HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790885616~exp=1790889216~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=8e2134746b2790d29152bda408adcf8862a1b97fad214a7008e7e6c5c562ad09"
+      }
+    },
+    {
       "channel_id": "1668",
       "channel_name": "And Xplor HD",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884386~exp=1790887986~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=c12e890eeab607db00fe37a9cd9aa4348fb75b9ec55930dddda14e23fd5431ec"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887975~exp=1790891575~acl=/bpk-tv/AndXploreHD_BTS/WDVLive/*~hmac=dcf3d0fbcf1d2f2e675409854a635dce48d80da10d4ecb6767d36af14da640fa"
       }
     },
     {
-      "channel_id": "562",
-      "channel_name": "Travelxp HD Hindi",
+      "channel_id": "3096",
+      "channel_name": "Star Gold 2 HD",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1790885616~exp=1790889216~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=728f17d6d9b4bce79a32ee24223526d83922bad24ec8eac8a5456b710b41895f"
-      }
-    },
-    {
-      "channel_id": "472",
-      "channel_name": "And TV HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884002~exp=1790887602~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=a68ba683b6b2ccaef41af7d9d61168604937cc52af73e48e95e2b7a5dd0c4348"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887254~exp=1790890854~acl=/bpk-tv/Star_Gold_2_HD_BTS/WDVLive/*~hmac=8df2d0d206091222bca67eb31ad59c3776d3290bc08f4d2548f4248818d24cf3"
       }
     },
     {
@@ -126,23 +76,33 @@
       }
     },
     {
-      "channel_id": "1335",
-      "channel_name": "National Geographic HD",
+      "channel_id": "146",
+      "channel_name": "History TV18 HD",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790885616~exp=1790889216~acl=/bpk-tv/National_Geographic_HD_BTS/WDVLive/*~hmac=8e2134746b2790d29152bda408adcf8862a1b97fad214a7008e7e6c5c562ad09"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884987~exp=1790888587~acl=/bpk-tv/History_HD_BTS/WDVLive/*~hmac=6091b84c7b6dbaaff4f9170c9fb4a930d88722cadc874f515140f2e12a39ca2c"
       }
     },
     {
-      "channel_id": "461",
-      "channel_name": "Star Sports Select 2 HD",
+      "channel_id": "415",
+      "channel_name": "Zee Anmol Cinema",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1790883466~exp=1790905066~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=b42a96410c9a3a663954aa7c4c742887e4411c2ab995ea5022f4b934972ca778"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/index.mpd?__hdnea__=st=1790885196~exp=1790888796~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=dc0821de1cf1f0e1aab98b414bfacc17df79df9effb83f731fd17c82973d6d45"
+      }
+    },
+    {
+      "channel_id": "562",
+      "channel_name": "Travelxp HD Hindi",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/WDVLive/index.mpd?__hdnea__=st=1790885616~exp=1790889216~acl=/bpk-tv/Travel_XP_BTS/WDVLive/*~hmac=728f17d6d9b4bce79a32ee24223526d83922bad24ec8eac8a5456b710b41895f"
       }
     },
     {
@@ -156,6 +116,56 @@
       }
     },
     {
+      "channel_id": "164",
+      "channel_name": "Travelxp HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884987~exp=1790888587~acl=/bpk-tv/Travel_XP_HD_BTS/WDVLive/*~hmac=ae86b0ba888b8ba9e8e40a93d82d1ba47cd41d00012ff9d29740f891b98eb135"
+      }
+    },
+    {
+      "channel_id": "167",
+      "channel_name": "Zee TV HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887691~exp=1790891291~acl=/bpk-tv/ZeeTVHD_BTS/WDVLive/*~hmac=b1dc73153ac0ab49a62a5fc7f3828144bdd5ac7b187e90a3a6903bd8d678dd93"
+      }
+    },
+    {
+      "channel_id": "472",
+      "channel_name": "And TV HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/AndTVHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887691~exp=1790891291~acl=/bpk-tv/AndTVHD_BTS/WDVLive/*~hmac=7a14a71a088740c69473a1100792b4579fda80c8f1844fb8b9d62836c0237d8d"
+      }
+    },
+    {
+      "channel_id": "821",
+      "channel_name": "Sony BBC Earth HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1790886787~exp=1790890387~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=084deb3836d673d70087b4b0a4e1df39a7534ab694260f5c0503d05ab64212eb"
+      }
+    },
+    {
+      "channel_id": "461",
+      "channel_name": "Star Sports Select 2 HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd?__hdnea__=st=1790883466~exp=1790905066~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=b42a96410c9a3a663954aa7c4c742887e4411c2ab995ea5022f4b934972ca778"
+      }
+    },
+    {
       "channel_id": "1114",
       "channel_name": "Star Sports Select 2",
       "status": "failed",
@@ -163,26 +173,6 @@
         "http_code": 450,
         "error": "",
         "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/index.mpd?__hdnea__=st=1790883782~exp=1790905382~acl=/bpk-tv/Star_Sports_Select_2_BTS/WDVLive/*~hmac=07790e8de5dbd76f13e7908edc21939ca39066a1cda83b586be21b9e5d2f1b76"
-      }
-    },
-    {
-      "channel_id": "1106",
-      "channel_name": "Star Sports 1 HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1790883990~exp=1790905590~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=dcdebd536e9ddf6102f4be7ac33a508309aa74820f7cee98b45a31dfa4c6f360"
-      }
-    },
-    {
-      "channel_id": "1108",
-      "channel_name": "Star Sports 1 Hindi HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1790875657~exp=1790897257~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=ff3e638dc7b42cf3de0194215e4753ecf5f8ff32f27577e406019dcbd406a71c"
       }
     },
     {
@@ -196,16 +186,6 @@
       }
     },
     {
-      "channel_id": "1109",
-      "channel_name": "Star Sports 2 HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1790884092~exp=1790905692~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=d73b6d7c78ff0e5d4a4de637eaa9a52db491d191642376ede74371a177549447"
-      }
-    },
-    {
       "channel_id": "1142",
       "channel_name": "Star Sports 1",
       "status": "failed",
@@ -213,6 +193,26 @@
         "http_code": 450,
         "error": "",
         "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/WDVLive/index.mpd?__hdnea__=st=1790883783~exp=1790905383~acl=/bpk-tv/Star_Sports_1_BTS/WDVLive/*~hmac=25ed49929ddb4bd401e89ccfa70576884f105dc503eff0ca3e1054fcdc8bd615"
+      }
+    },
+    {
+      "channel_id": "1108",
+      "channel_name": "Star Sports 1 Hindi HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?__hdnea__=st=1790875657~exp=1790897257~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=ff3e638dc7b42cf3de0194215e4753ecf5f8ff32f27577e406019dcbd406a71c"
+      }
+    },
+    {
+      "channel_id": "1109",
+      "channel_name": "Star Sports 2 HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd?__hdnea__=st=1790884092~exp=1790905692~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=d73b6d7c78ff0e5d4a4de637eaa9a52db491d191642376ede74371a177549447"
       }
     },
     {
@@ -236,13 +236,13 @@
       }
     },
     {
-      "channel_id": "3277",
-      "channel_name": "Star Sports 1 Tamil HD",
+      "channel_id": "1106",
+      "channel_name": "Star Sports 1 HD",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1790866215~exp=1790887815~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=82be9a1a93fe4afd39f3244b4502cbeaf314259c68331cb7435bf26aa4b85b11"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?__hdnea__=st=1790883990~exp=1790905590~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=dcdebd536e9ddf6102f4be7ac33a508309aa74820f7cee98b45a31dfa4c6f360"
       }
     },
     {
@@ -256,13 +256,33 @@
       }
     },
     {
+      "channel_id": "1389",
+      "channel_name": "Star Sports 3",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1790867450~exp=1790889050~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=69465b6a2c6568bcf4a82784733311bfdc53872e0c1f9a0d8c45b87644780edd"
+      }
+    },
+    {
+      "channel_id": "3277",
+      "channel_name": "Star Sports 1 Tamil HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1790887859~exp=1790909459~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=f0f6a65668ed1a4e871a264671ced6978ca7c32dda804c40eb824ab70fd24ec5"
+      }
+    },
+    {
       "channel_id": "1124",
       "channel_name": "Star Sports 1 Tamil",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1790866359~exp=1790887959~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=a6beaf590bca12e6d192555e815eaaaa542aec0e091b46b8354fe216c9416a72"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1790888001~exp=1790909601~acl=/bpk-tv/Star_Sports_1_Tamil_BTS/WDVLive/*~hmac=a46e295d90103df759061f44f2c06060f4cf6e223404cab282a6f5aa11626e7b"
       }
     },
     {
@@ -272,17 +292,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790866415~exp=1790888015~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=8d4b5ffbb37235df57d49fbd4f3abdf773fb0d29d638c3963f12c67e2676815c"
-      }
-    },
-    {
-      "channel_id": "1389",
-      "channel_name": "Star Sports 3",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd?__hdnea__=st=1790867450~exp=1790889050~acl=/bpk-tv/Star_Sports_3_BTS/WDVLive/*~hmac=69465b6a2c6568bcf4a82784733311bfdc53872e0c1f9a0d8c45b87644780edd"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790888051~exp=1790909651~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=ff5f45a6d21758b75dabe36949b286614f7771af4df876c1c0ff669d9551ecf3"
       }
     },
     {
@@ -306,16 +316,6 @@
       }
     },
     {
-      "channel_id": "1122",
-      "channel_name": "Star Sports 2 Kannada",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1790884092~exp=1790905692~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=a674ce68b705687664f8bbb1078128adb00dbab37daede0e929acc600a9cd003"
-      }
-    },
-    {
       "channel_id": "3273",
       "channel_name": "Star Sports 2 Tamil HD",
       "status": "failed",
@@ -323,26 +323,6 @@
         "http_code": 450,
         "error": "",
         "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790866995~exp=1790888595~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=55ffae876d17caedf6967e1d248872dfbdcfe49234bb0d754ffc780d6444784c"
-      }
-    },
-    {
-      "channel_id": "2853",
-      "channel_name": "Star Sports 2 Tamil",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1790866995~exp=1790888595~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=fe9519b17281bc8d819b18b109852c2a145a857328f38cd5ab784777417ed0e5"
-      }
-    },
-    {
-      "channel_id": "3274",
-      "channel_name": "Star Sports 2 Telugu HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790866995~exp=1790888595~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=aaf493cf8c53ad82da5934d300032b1632494319c21e14b145fd439e0652cd63"
       }
     },
     {
@@ -356,6 +336,36 @@
       }
     },
     {
+      "channel_id": "165",
+      "channel_name": "Zee Cinema HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887388~exp=1790890988~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=cd732f2dad98ac4f694beb5ce7d0522878bbbd330d4d8f007315c0cc2365c2bb"
+      }
+    },
+    {
+      "channel_id": "1122",
+      "channel_name": "Star Sports 2 Kannada",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/index.mpd?__hdnea__=st=1790884092~exp=1790905692~acl=/bpk-tv/Star_Sports_2_Kannada_BTS/WDVLive/*~hmac=a674ce68b705687664f8bbb1078128adb00dbab37daede0e929acc600a9cd003"
+      }
+    },
+    {
+      "channel_id": "3274",
+      "channel_name": "Star Sports 2 Telugu HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1790866995~exp=1790888595~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=aaf493cf8c53ad82da5934d300032b1632494319c21e14b145fd439e0652cd63"
+      }
+    },
+    {
       "channel_id": "153",
       "channel_name": "Zee Talkies",
       "status": "failed",
@@ -366,33 +376,13 @@
       }
     },
     {
-      "channel_id": "165",
-      "channel_name": "Zee Cinema HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790883703~exp=1790887303~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=2b561c7ef84494f84ddfb34a693e6d2ac2e76d84c0681d66aac2a0e1a01c7562"
-      }
-    },
-    {
       "channel_id": "413",
       "channel_name": "Zee Cinemalu",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemalu_BTS/WDVLive/index.mpd?__hdnea__=st=1790884519~exp=1790888119~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=e45ea019e086a65a1a047ac50cd5678165954329d3d6a9d7bcaee33651f0e751"
-      }
-    },
-    {
-      "channel_id": "414",
-      "channel_name": "Zee Yuva",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd?__hdnea__=st=1790885444~exp=1790889044~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=5f4aef66f9a2aaeff269306bd2aa2a2d349c60f81fed452c877797b2ab113220"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemalu_BTS/WDVLive/index.mpd?__hdnea__=st=1790888018~exp=1790891618~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=af80ded70a5a2909127fd9af6ba8e0588133f559b174e3c3793579a9b38a8931"
       }
     },
     {
@@ -403,26 +393,6 @@
         "http_code": 450,
         "error": "",
         "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathi_BTS/WDVLive/index.mpd?__hdnea__=st=1790885445~exp=1790889045~acl=/bpk-tv/ZeeMarathi_BTS/WDVLive/*~hmac=00d8193de3e1659fe80db6515aaeca8eedbe1cdcb87198f19d66f2cf813aab2f"
-      }
-    },
-    {
-      "channel_id": "488",
-      "channel_name": "Zee Action",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAction_BTS/WDVLive/index.mpd?__hdnea__=st=1790886480~exp=1790890080~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=7b26b6495416ee92abc03c6762a41521dc0ef0b9632e0faf4c4b67c0a405373f"
-      }
-    },
-    {
-      "channel_id": "442",
-      "channel_name": "Zee 24 Taas",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": ""
       }
     },
     {
@@ -442,57 +412,27 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBollywood_BTS/WDVLive/index.mpd?__hdnea__=st=1790883717~exp=1790887317~acl=/bpk-tv/ZeeBollywood_BTS/WDVLive/*~hmac=1b23a87d2dca3a49d0532fcadb93784f43bfc8fce9d53bb14341730307bf010e"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBollywood_BTS/WDVLive/index.mpd?__hdnea__=st=1790887387~exp=1790890987~acl=/bpk-tv/ZeeBollywood_BTS/WDVLive/*~hmac=d0dd01f4b900c779ff76158067bc4eef4c914726ab18fe5f64c9fc31e21ea5f1"
       }
     },
     {
-      "channel_id": "504",
-      "channel_name": "Zee News",
+      "channel_id": "2853",
+      "channel_name": "Star Sports 2 Tamil",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_News_BTS/WDVLive/index.mpd?__hdnea__=st=1790885295~exp=1790888895~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=ee71d2d86b75b0bf6d2a183664edd8c74fc4b0fbcf1148bf56f5a82a6d8dccf7"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd?__hdnea__=st=1790866995~exp=1790888595~acl=/bpk-tv/StarSports2Tamil_BTS/WDVLive/*~hmac=fe9519b17281bc8d819b18b109852c2a145a857328f38cd5ab784777417ed0e5"
       }
     },
     {
-      "channel_id": "572",
-      "channel_name": "Zee UP UK",
+      "channel_id": "414",
+      "channel_name": "Zee Yuva",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": ""
-      }
-    },
-    {
-      "channel_id": "628",
-      "channel_name": "Zee Tamil",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamil_BTS/WDVLive/index.mpd?__hdnea__=st=1790884094~exp=1790887694~acl=/bpk-tv/ZeeTamil_BTS/WDVLive/*~hmac=63f9bf0ad86043b5f24113eb360c683beadd0f41a1cff116175d1a011fdf2924"
-      }
-    },
-    {
-      "channel_id": "638",
-      "channel_name": "Zee Telugu",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTelugu_BTS/WDVLive/index.mpd?__hdnea__=st=1790884696~exp=1790888296~acl=/bpk-tv/ZeeTelugu_BTS/WDVLive/*~hmac=b44e0b6a956b8af5f24a9202b15b309c950d972793d7f435afc588fc33b69f09"
-      }
-    },
-    {
-      "channel_id": "652",
-      "channel_name": "Zee Bharat",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": ""
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/WDVLive/index.mpd?__hdnea__=st=1790885444~exp=1790889044~acl=/bpk-tv/ZeeYuva_BTS/WDVLive/*~hmac=5f4aef66f9a2aaeff269306bd2aa2a2d349c60f81fed452c877797b2ab113220"
       }
     },
     {
@@ -506,13 +446,43 @@
       }
     },
     {
+      "channel_id": "442",
+      "channel_name": "Zee 24 Taas",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": ""
+      }
+    },
+    {
+      "channel_id": "504",
+      "channel_name": "Zee News",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_News_BTS/WDVLive/index.mpd?__hdnea__=st=1790885295~exp=1790888895~acl=/bpk-tv/Zee_News_BTS/WDVLive/*~hmac=ee71d2d86b75b0bf6d2a183664edd8c74fc4b0fbcf1148bf56f5a82a6d8dccf7"
+      }
+    },
+    {
+      "channel_id": "488",
+      "channel_name": "Zee Action",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAction_BTS/WDVLive/index.mpd?__hdnea__=st=1790886480~exp=1790890080~acl=/bpk-tv/ZeeAction_BTS/WDVLive/*~hmac=7b26b6495416ee92abc03c6762a41521dc0ef0b9632e0faf4c4b67c0a405373f"
+      }
+    },
+    {
       "channel_id": "625",
       "channel_name": "Zee Bangla",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBangla_BTS/WDVLive/index.mpd?__hdnea__=st=1790884387~exp=1790887987~acl=/bpk-tv/ZeeBangla_BTS/WDVLive/*~hmac=69b600c616f2e4cbc0709073fc5d29198f240cf9a4761f2e13f9d16fdeabfc4b"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBangla_BTS/WDVLive/index.mpd?__hdnea__=st=1790887988~exp=1790891588~acl=/bpk-tv/ZeeBangla_BTS/WDVLive/*~hmac=db06ab8e22bcadd1092469f08aff3dd24ecc7128fee1493d6b86111933980e1e"
       }
     },
     {
@@ -556,18 +526,8 @@
       }
     },
     {
-      "channel_id": "821",
-      "channel_name": "Sony BBC Earth HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/index.mpd?__hdnea__=st=1790886787~exp=1790890387~acl=/bpk-tv/SonyBBCEarthHin_BTS/WDVLive/*~hmac=084deb3836d673d70087b4b0a4e1df39a7534ab694260f5c0503d05ab64212eb"
-      }
-    },
-    {
-      "channel_id": "724",
-      "channel_name": "Zee Delhi NCR Haryana",
+      "channel_id": "572",
+      "channel_name": "Zee UP UK",
       "status": "failed",
       "error_details": {
         "http_code": 450,
@@ -576,73 +536,13 @@
       }
     },
     {
-      "channel_id": "1319",
-      "channel_name": "Zee Cafe HD",
+      "channel_id": "628",
+      "channel_name": "Zee Tamil",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790883494~exp=1790887094~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=a3e3413f0d3dd75a1f9171b200b7b359601ba343f413e042b7b62f6c363c8866"
-      }
-    },
-    {
-      "channel_id": "1351",
-      "channel_name": "Zee TV",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd?__hdnea__=st=1790885592~exp=1790889192~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=64b9d3b6660b5a828488b008c0f495716243e70882e17ffdf325bf639ed09f84"
-      }
-    },
-    {
-      "channel_id": "1354",
-      "channel_name": "Zee Telugu HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884094~exp=1790887694~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=c7b10b2055352d5bde2448e01a2285c0ac13e6f43f82346cd0fefac5253e9f4d"
-      }
-    },
-    {
-      "channel_id": "1356",
-      "channel_name": "Zee Tamil HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884094~exp=1790887694~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=707a1b4a6b1a58c86ed6ea941e75c512761201a92041d469239f26daf020f124"
-      }
-    },
-    {
-      "channel_id": "1358",
-      "channel_name": "Zee Talkies HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790886188~exp=1790889788~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=94b27a3f931c08ac0b4adb6b7a1b22984b7f29592d639c9cc1e267306635c71a"
-      }
-    },
-    {
-      "channel_id": "1360",
-      "channel_name": "Zee Marathi HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathiHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884988~exp=1790888588~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=8aa993760492749c51b860718d6a99d14aac47735e6350650299f151c91d69e5"
-      }
-    },
-    {
-      "channel_id": "1362",
-      "channel_name": "Zee Kannada HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKannadaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884094~exp=1790887694~acl=/bpk-tv/ZeeKannadaHD_BTS/WDVLive/*~hmac=787c029843bc1ec16df0b8f11e4332aeca407a482360b01ed1bc41494e9a3ef2"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamil_BTS/WDVLive/index.mpd?__hdnea__=st=1790887647~exp=1790891247~acl=/bpk-tv/ZeeTamil_BTS/WDVLive/*~hmac=fcd87ad4c173f1e9b36f64cc9bc86e3cd66274c805caf967059838581e5ff715"
       }
     },
     {
@@ -676,6 +576,26 @@
       }
     },
     {
+      "channel_id": "724",
+      "channel_name": "Zee Delhi NCR Haryana",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": ""
+      }
+    },
+    {
+      "channel_id": "652",
+      "channel_name": "Zee Bharat",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": ""
+      }
+    },
+    {
       "channel_id": "929",
       "channel_name": "Zee 24 Kalak",
       "status": "failed",
@@ -686,13 +606,83 @@
       }
     },
     {
+      "channel_id": "1319",
+      "channel_name": "Zee Cafe HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887096~exp=1790890696~acl=/bpk-tv/ZeeCafeHD_BTS/WDVLive/*~hmac=fbbdee832e9028fcf9c0704dbc6c113cc82c8aafb2cb4e3b8b735ad9c5b1c5d2"
+      }
+    },
+    {
+      "channel_id": "1360",
+      "channel_name": "Zee Marathi HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeMarathiHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884988~exp=1790888588~acl=/bpk-tv/ZeeMarathiHD_BTS/WDVLive/*~hmac=8aa993760492749c51b860718d6a99d14aac47735e6350650299f151c91d69e5"
+      }
+    },
+    {
+      "channel_id": "1362",
+      "channel_name": "Zee Kannada HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKannadaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887646~exp=1790891246~acl=/bpk-tv/ZeeKannadaHD_BTS/WDVLive/*~hmac=653f493eb14ab5dd5e14bab0e36771ac862dfe53546d4cacf343a72ea6f0a3fe"
+      }
+    },
+    {
+      "channel_id": "1351",
+      "channel_name": "Zee TV",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTV_BTS/WDVLive/index.mpd?__hdnea__=st=1790885592~exp=1790889192~acl=/bpk-tv/ZeeTV_BTS/WDVLive/*~hmac=64b9d3b6660b5a828488b008c0f495716243e70882e17ffdf325bf639ed09f84"
+      }
+    },
+    {
+      "channel_id": "1354",
+      "channel_name": "Zee Telugu HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887647~exp=1790891247~acl=/bpk-tv/ZeeTeluguHD_BTS/WDVLive/*~hmac=aed351e93f696fd41f1efd28e9aa843bebb80d5a6336dcab9a6c46cefdbd72fd"
+      }
+    },
+    {
+      "channel_id": "1356",
+      "channel_name": "Zee Tamil HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887648~exp=1790891248~acl=/bpk-tv/ZeeTamilHD_BTS/WDVLive/*~hmac=ae04fdd03be465a7850cb494a5d611d4aca9febc912d69ae231bc738021c2cf4"
+      }
+    },
+    {
+      "channel_id": "1358",
+      "channel_name": "Zee Talkies HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790886188~exp=1790889788~acl=/bpk-tv/ZeeTalkiesHD_BTS/WDVLive/*~hmac=94b27a3f931c08ac0b4adb6b7a1b22984b7f29592d639c9cc1e267306635c71a"
+      }
+    },
+    {
       "channel_id": "1363",
       "channel_name": "Zee Cinemalu HD",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790883717~exp=1790887317~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=0576cf644f87215ccd64be136d2370b15b61caec73fc3728f3ef8c36c470e639"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887390~exp=1790890990~acl=/bpk-tv/ZeeCinemaluHD_BTS/WDVLive/*~hmac=f6c97d10bc4e8aed40756de26dc3fc9e0f507b86d7b1be3157cf27bfbf1d63ab"
       }
     },
     {
@@ -702,7 +692,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKeralamHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790883717~exp=1790887317~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=cc528e499da470b7ef516c059f83ba8adc0ce0eda80b72af0a778d5188875da2"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeKeralamHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887387~exp=1790890987~acl=/bpk-tv/ZeeKeralamHD_BTS/WDVLive/*~hmac=1e1bccc732243fcb97c1d07e93aa628008695c60bace9a3b563d9e37a84dc5be"
       }
     },
     {
@@ -712,7 +702,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeClassicSD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884224~exp=1790887824~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=50b1e7fff0dac2acd5eea016e5f0752db0746755ece8d2aafbcfba746f40906b"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeClassicSD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887735~exp=1790891335~acl=/bpk-tv/ZeeClassicSD_BTS/WDVLive/*~hmac=7734e5059683bbea841fbfb1fbaea3c848c6f666dcedaf315deb1e541f725c26"
       }
     },
     {
@@ -732,7 +722,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeePowerHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884293~exp=1790887893~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=f1cf881f2bceaff93cbaa9354501b2e9cd05a27c070a851118554a2d2d780b45"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeePowerHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887976~exp=1790891576~acl=/bpk-tv/ZeePowerHD_BTS/WDVLive/*~hmac=be519f94755df8f9aa1458bdbb177f72f39cbf7aee766280978e476cb5e4c533"
       }
     },
     {
@@ -743,6 +733,16 @@
         "http_code": 450,
         "error": "",
         "final_url": ""
+      }
+    },
+    {
+      "channel_id": "1977",
+      "channel_name": "Zee Bangla HD",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887045~exp=1790890645~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=0e4da7563abd7a46b64bb2fd22c4abb979f9e21db250250f7f433b65767bd1b7"
       }
     },
     {
@@ -772,7 +772,7 @@
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/index.mpd?__hdnea__=st=1790883494~exp=1790887094~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=2d2c26608644f05d4bc0d3dc37a644ce38017ef52eda97320c4497ba7491a632"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/index.mpd?__hdnea__=st=1790887093~exp=1790890693~acl=/bpk-tv/ZeeAnmolCinema2_BTS/WDVLive/*~hmac=d7d3f0ab9cff0400a208169e4fe9f57bff0c4b087cfc8d20768ad4e1ff6981ee"
       }
     },
     {
@@ -786,23 +786,13 @@
       }
     },
     {
-      "channel_id": "1977",
-      "channel_name": "Zee Bangla HD",
-      "status": "failed",
-      "error_details": {
-        "http_code": 450,
-        "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790883534~exp=1790887134~acl=/bpk-tv/ZeeBanglaHD_BTS/WDVLive/*~hmac=d5337e2ecb91255213ce25a65e867870925f9996843531e98f78110881a2dcef"
-      }
-    },
-    {
       "channel_id": "3051",
       "channel_name": "Zee Thirai HD",
       "status": "failed",
       "error_details": {
         "http_code": 450,
         "error": "",
-        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeThiraiHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790884094~exp=1790887694~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=430e2dd7620e5f55936285dcb0c0f665550a01ecc68f321b747099884aa899f7"
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeThiraiHD_BTS/WDVLive/index.mpd?__hdnea__=st=1790887646~exp=1790891246~acl=/bpk-tv/ZeeThiraiHD_BTS/WDVLive/*~hmac=f02769f35ea19359b860a3135f1ee51bf8c72d4a52185ef3369477c201942f59"
       }
     },
     {
@@ -813,6 +803,16 @@
         "http_code": 450,
         "error": "",
         "final_url": ""
+      }
+    },
+    {
+      "channel_id": "638",
+      "channel_name": "Zee Telugu",
+      "status": "failed",
+      "error_details": {
+        "http_code": 450,
+        "error": "",
+        "final_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTelugu_BTS/WDVLive/index.mpd?__hdnea__=st=1790888308~exp=1790891908~acl=/bpk-tv/ZeeTelugu_BTS/WDVLive/*~hmac=3ec4c13419445d25704ed85b17cc75ac2d4f336c2e770c766102cecb4cbbffc9"
       }
     }
   ]
