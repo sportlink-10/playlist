@@ -27,7 +27,10 @@ https://premiumplugx.top/tivjh/playlist.php?route=mpd&id=starvijaydigital
 
 #EXTINF:-1 tvg-id="ts608" tvg-name="Zee Tamil HD" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTamilHD_Thumbnail_7022fe5b-89a2-4cca-a9d0-58e46baa6d5c.png" group-title="Entertainment",Zee Tamil HD
 #EXTVLCOPT:http-user-agent=com.graymatrix.did;Android TV;5.82.6(203230929);Android(10);Xiaomi(Redmi Note 8 Pro)
-https://premiumplugx.me/jee/zee5.php/0-9-zeetamil.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=48b5608a55274fdba290e0c50ed53e58:b491d68743c05c316efd3f76164768ad
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/dash/Zee_Tamil_HD.mpd
+#https://premiumplugx.me/jee/zee5.php/0-9-zeetamil.m3u8
 
 #EXTINF:-1 tvg-id="ts674" tvg-logo="https://tatalogo.pages.dev/674.png" group-title="Entertainment",Colors Tamil HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -274,12 +277,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.m
 
 #EXTINF:-1 tvg-id="ts502" group-title="Sports" tvg-logo="https://i.ibb.co/h1gBmjbj/Unite8-1.png",Unite8 Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=359758b4aa714a68ad46639fe35e03fe:7f443d5b2dad33fadd6053a6077aad37
+#KODIPROP:inputstream.adaptive.license_key=b3291b0627ba4d8297ec4e7e11c22f31:c2e414b377f17d513463f4fec084dddf
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 
 #EXTINF:-1 tvg-id="ts506" group-title="Sports" tvg-logo="https://i.ibb.co/d4JpmFN9/Unite8-2.png",Unite8 Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f9e1ddc39be4ec1aa9df2811057fb67:8f6e46aa12474f55d4be2663ca00d5a0
+#KODIPROP:inputstream.adaptive.license_key=080fb06f56e64dd1a449cfdadd9d21ff:235e9be47342d70edff557e4abf24ce4
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
 
 #EXTINF:-1 tvg-id="ts246" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Sports",Star Sports Select 1 HD
@@ -639,9 +642,9 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="3417" tvg-name="Roja Movies" group-title="Movies" tvg-logo="https://i.ibb.co/21by5dpD/1000135211.png",Roja Movies
 https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="LoopTamil" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11892.png" tvg-region="Unknown" group-title="Movies",Loop Tamil
-https://live.yettelevision.com/WebRTCApp/streams/LOOPTAMIL4Vx8Qp2NmK7RdPLAY.m3u8
+#https://live.yettelevision.com/WebRTCApp/streams/LOOPTAMIL4Vx8Qp2NmK7RdPLAY.m3u8
 #EXTINF:-1 tvg-id="MoviesHD" tvg-logo="https://yettelevision.com/assets/images/logo/channel_11881.png" tvg-region="Unknown" group-title="Movies",Movies HD
-https://live.yettelevision.com/LiveApp/streams/MoviesHDBdXb7gtHJIkT7mQx9LpV2Nc8Hd.m3u8
+#https://live.yettelevision.com/LiveApp/streams/MoviesHDBdXb7gtHJIkT7mQx9LpV2Nc8Hd.m3u8
 #EXTINF:-1 tvg-id="TharunMovies" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1739599242_IMG_20250215_111845_234.png" tvg-region="Chengalpattu" group-title="Movies",Tharun Movies
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 
@@ -721,7 +724,7 @@ http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/9258/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/GR7E6CW6C7XSQL3R36FTRRWW/19146/index.m3u8
 
 #EXTINF:-1 tvg-id="HubSports4.sg" tvg-logo="https://iili.io/FkbZuBS.jpg" group-title="Sports",Hub Sports 4
-https://ott.djdoolky76.io/api/streams/288/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODg1NTI5NywiZXhwIjoxNzkwNTUzNTk5fQ.SMMqC8ske6hFRgVrE8BAMPlH35xSkMqfuSI79zZ3ZAQ
+http://4kgood.org:80/live/Zakaria24_053922/fRUQ4buD/280825.ts
 
 #EXTINF:-1 tvg-id="skysp.1" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Sports", Sky Sport
 http://lordstream.fans:80/live/Kennedy1/Kennedy1/251422.m3u8
@@ -770,6 +773,7 @@ https://supflm.cdn.runn.tv/runntv/stream/suptam/playlist.m3u8
 #EXTINF:-1  tvg-name="Mango" group-title="Movies" tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",Mango Mobile TV
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
 
+
 ============================================= MUSIC =================================================
 
 #EXTINF:-1 tvg-id="ts400" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11583-j9jype8w-v3/imageContent-11583-j9jype8w-m3.png" group-title="Music",Mega Musiq
@@ -789,9 +793,7 @@ https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="440" tvg-logo="https://tatalogo.pages.dev/39.png" group-title="Music", 9x Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="DeewanaHD.in" tvg-name="Deewana HD" tvg-logo="https://i.imgur.com/xIYITQ9.png" group-title="Music",Deewana
-https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
+https://vidaa.kableone.com/hls/live/2111218/YrfMusic/master.m3u8
 #EXTINF:-1 tvg-name="Dhool TV" group-title="Music" tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png",Dhool TV
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Tamil Songs
@@ -806,6 +808,8 @@ https://fusion4k.psrutube.workers.dev/481201.m3u8
 https://fusion4k.psrutube.workers.dev/481314.m3u8
 #EXTINF:-1  tvg-name="Tamil Songs" tvg-id="Music.Dummy.us" group-title="Music" tvg-logo="https://i.postimg.cc/3RxbPVdD/cropped-image.png",Romantic Songs
 https://fusion4k.psrutube.workers.dev/481315.m3u8
+#EXTINF:-1 tvg-id="DeewanaHD.in" tvg-name="Deewana HD" tvg-logo="https://i.imgur.com/xIYITQ9.png" group-title="Music",Deewana
+https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 
 
 =============================================== NEWS =============================================================
@@ -1543,6 +1547,8 @@ https://stream.d6-pro.com/dtv/live/index.m3u8
 https://in-2.castr.io/live_40fb69e0107211f0adde2f394a2bbc0f/index.mpd
 #EXTINF:-1 tvg-id="AnandamUTV" tvg-logo="https://yt3.googleusercontent.com/2xDkHaxdCWOHICws_UnBcFP6gRQoZ9YD-GtSw1KMxTGMblNYaWvlyYsFNkjzvJKKA9tU336n" tvg-region="Madurai" group-title="Local Channels",Anandam UTV
 https://in-2.castr.io/live_b47b59f00ef311f0ad1ef1ea4c2387d9/index.mpd
+#EXTINF:-1 tvg-name="Anandam TV" tvg-logo="https://papaji.freetvindia.com/media/channels/Ananadamtv.png" group-title="Tamil",Anandam TV
+https://mumt07.tangotv.in/zHjX9OFlANANDAMTV/index.m3u8
 #EXTINF:-1 tvg-id="AlphaTV" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1788507924.webp" tvg-region="Unknown" group-title="Local Channels",Alpha TV
 https://bk7l2z5nlx53-hls-live.5centscdn.com/alpha/55f071ebe5152828fdcc330c765659ea.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EyeTVMadurai" tvg-logo="https://api.maduraiiptv.in/uploads/channel/logos/1787553796.webp" tvg-region="Unknown" group-title="Local Channels",Eye TV Madurai
@@ -2327,8 +2333,6 @@ https://applelive.in/avstv/avstv/index.m3u8
 https://applelive.in/jcvtv/jcvmusix/index.m3u8
 #EXTINF:-1 tvg-name="STN" group-title="Local Channels" tvg-logo="https://i.ibb.co/rRc3GPNS/1000145832.jpg",STN
 https://applelive.in/stntv/stntv/index.m3u8
-#EXTINF:-1 tvg-name="cgn tv" tvg-logo="https://livetv.ashokadigital.net/upload/logo/1787725031_CGN TV  YT 1.jpg-Photoroom.png" group-title="Local Channels",CGN Tv
-https://applelive.in/cgntv/cgntv/index.m3u8
 #EXTINF:-1 tvg-name="Apple Media" group-title="Local Channels" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240309_0056194718769074512051348.png",Apple TV
 http://applelive.in/appletv/appletv/index.m3u8
 #EXTINF:-1 tvg-name="Apple" group-title="Local Channels" tvg-logo="https://i.ibb.co/F4CFQJkH/Apple-TV.jpg",Apple TV
@@ -2689,12 +2693,16 @@ https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
 https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
 #EXTINF:-1  tvg-name="Movie Hub Action" tvg-id="c5cbd4129753f5732d7160596440404f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c5cbd4129753f5732d7160596440404f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793611093_Movie_Hub_Action_260x147.png" group-title="Extras",Movie Hub Action
 https://jmp2.uk/rok-c5cbd4129753f5732d7160596440404f.m3u8
-#EXTINF:-1  tvg-name="My Time Movie Network" tvg-id="be3c81de355c56f89cbf99301735cfd2" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/be3c81de355c56f89cbf99301735cfd2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654727499791_MyTime_Roku_ChannelLogos_260x147.png" group-title="Extras",My Time Movie Network
+#EXTINF:-1  tvg-name="My Time Movie Network" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/be3c81de355c56f89cbf99301735cfd2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1654727499791_MyTime_Roku_ChannelLogos_260x147.png" group-title="Extras",My Time Movie Network
 https://jmp2.uk/rok-be3c81de355c56f89cbf99301735cfd2.m3u8
+#EXTINF:-1 tvg-name="Lionsgate Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/94414bbf0f694f521a8f5fea5ca4e1f6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1787161751909_lionsgate_network_logo_hud.png" group-title="Extras",Lionsgate Network
+https://aka-live1050.delivery.roku.com/356588e6-ed76-4c21-9d31-d37a12ca86ed/t2-origin/out/v1/live.m3u8
 #EXTINF:-1  tvg-name="FilmRiseFreeMovies.us" tvg-id="d6f71998860459eca1bed73db5988330" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/d6f71998860459eca1bed73db5988330/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673451464197_FilmRise_FreeMovies_260x147.png" group-title="Extras",FilmRise Free Movies
 https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
 #EXTINF:-1  tvg-name="FilmRiseAction.us" tvg-id="0abef49cfd6759b18f2ce64290cbdda3" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0abef49cfd6759b18f2ce64290cbdda3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673450513655_HUDidentifier_filmRiseAction.png" group-title="Extras",FilmRise Action
 https://jmp2.uk/rok-0abef49cfd6759b18f2ce64290cbdda3.m3u8
+#EXTINF:-1 tvg-name="iShowSpeed TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0597d2a4b388b1497a9bf48812e5d070/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778863314015_ishowspeed_logo_hud.png" group-title="Extras",iShowSpeed TV
+https://aka-live1050.delivery.roku.com/e09f3dae-6cb5-4ce6-8640-72bc092d9d6b/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RdzJRTF/image.png" group-title="Extras",Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
