@@ -12,7 +12,7 @@ from urllib.parse import urlparse, parse_qs, unquote
 
 M3U_URL  = "https://premiumplugx.top/jiostb/mjelo.php?view=raw"
 JSON_URL = "https://sportlink-jtv.pages.dev/Star.json"
-OUT_FILE = "star333.json"
+OUT_FILE = "star2.json"
 
 IST = timezone(timedelta(hours=5, minutes=30))
 
