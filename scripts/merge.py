@@ -10,11 +10,10 @@ PLAYLISTS = [
     {"name": "SONYLIV", "icon": "📺", "url": "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"},
     {"name": "WILLOW", "icon": "🏏", "url": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"},
     {"name": "PRIMEVIDEO", "icon": "📺", "url": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u"},
-    {"name": "AXSPORTS", "icon": "🏏", "url": "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u"},
     {"name": "JIO-TV", "icon": "📡", "url": "https://raw.githubusercontent.com/sportlink-10/playlist/refs/heads/main/jtvplus7.m3u"},
-    {"name": "ZEE", "icon": "📺", "url": "https://raw.githubusercontent.com/sportlink-10/playlist/refs/heads/main/zee.m3u"},
-    {"name": "SONY", "icon": "📺", "url": "https://raw.githubusercontent.com/sportlink-10/playlist/refs/heads/main/sony.m3u"},
-    {"name": "SUN", "icon": "☀️", "url": "https://raw.githubusercontent.com/sportlink-10/playlist/refs/heads/main/sun.m3u"},
+    {"name": "ZEE", "icon": "📺", "url": "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/zee.m3u"},
+    {"name": "SONY", "icon": "📺", "url": "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/sony.m3u"},
+    {"name": "SUN", "icon": "☀️", "url": "https://raw.githubusercontent.com/sportlive18/jio-tv-auto-update-playlist/refs/heads/main/sun.m3u"},
     {"name": "Jio Hotstar", "icon": "⭐", "url": "https://raw.githubusercontent.com/sportlink-10/playlist/refs/heads/main/hotstar.m3u"},
 ]
 
@@ -32,7 +31,6 @@ SOURCE_CATEGORY_OVERRIDE = {
     "Jio Hotstar": "Jio Hotstar",
     "WILLOW":      "Willow",
     "PRIMEVIDEO":  "Prime Video",
-    "AXSPORTS":    "AXS",
     "HOTSTAR":     "Hotstar",
     "Sports Special": "Sports Special",
 }
@@ -83,7 +81,6 @@ CATEGORY_ORDER = [
     "SonyLIV | Sportlink",
     "Willow | Sportlink",
     "Prime Video | Sportlink",
-    "AXS | Sportlink",
     "Hotstar | Sportlink",
     "Jio Hotstar | Sportlink",
 ]
