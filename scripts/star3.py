@@ -7,7 +7,7 @@ JSON_URL = "https://sportlink-jtv.pages.dev/hstar.json"
 OUTPUT_FILE = "hotstar.m3u"
 
 # Your provided cookie string
-COOKIE_STRING = "hdnea=exp=1791007392~acl=%2f*~id=856591516a8b60c6136e1f0574449c68~data=hdntl~hmac=7892bfb7fdfa07d06c25e626ba4da372f356c166aa12e87b7e267d208fbec96b|Cookie=hdntl=exp=1791007392~acl=%2f*~id=856591516a8b60c6136e1f0574449c68~data=hdntl~hmac=7892bfb7fdfa07d06c25e626ba4da372f356c166aa12e87b7e267d208fbec96b"
+COOKIE_STRING = "hdntl=exp=1791007392~acl=%2f*~id=856591516a8b60c6136e1f0574449c68~data=hdntl~hmac=7892bfb7fdfa07d06c25e626ba4da372f356c166aa12e87b7e267d208fbec96b"
 
 # Common headers used for Hotstar streams
 USER_AGENT = "Virat Kohli"
