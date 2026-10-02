@@ -12,6 +12,11 @@ export async function onRequest(context) {
     time: new Date().toISOString()
   }));
 
+  // .m3u files — fully public, skip all checks
+  if (url.pathname.endsWith('.m3u')) {
+    return context.next();
+  }
+
   // Bot block
   if (!ua.includes('Mozilla')) {
     return new Response('Access Denied', { status: 403 });
@@ -22,7 +27,7 @@ export async function onRequest(context) {
     return new Response('Access Denied - Region Blocked', { status: 403 });
   }
 
-  // .json block with whitelist
+  // Origin/Referer whitelist — .json files only
   if (url.pathname.endsWith('.json')) {
     const ALLOWED_JSON_ORIGINS = [
       'sportlink10-ajp.pages.dev',
