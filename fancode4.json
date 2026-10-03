@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "03:03:41 PM 03-10-2026",
-    "generated_at": "2026-10-03 09:45:07",
+    "source_last_updated": "03:13:46 PM 03-10-2026",
+    "generated_at": "2026-10-03 09:50:13",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 6,
-    "upcoming_matches_count": 34,
+    "live_matches_count": 5,
+    "upcoming_matches_count": 35,
     "matches": [
         {
             "event_category": "Cricket",
@@ -64,25 +64,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248568_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248575_ENG",
-            "title": "ATP 500 - Kinoshita Group Japan Open 2026 [English]",
-            "match_name": "Kinoshita Group Show Court [English]",
-            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-            "team_1": "Kinoshita Group Show Court",
-            "team_2": "Tokyo, Japan",
-            "status": "LIVE",
-            "startTime": "07:30:00 AM 03-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248575_ENG/english.m3u8"
                 }
             ]
         },
@@ -565,6 +546,19 @@
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 04-10-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249263,
+            "title": "Las Palmas vs Real Valladolid (LALIGA Hypermotion 2026-27)",
+            "match_name": "Las Palmas vs Real Valladolid",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
+            "team_1": "Las Palmas",
+            "team_2": "Real Valladolid",
+            "status": "UPCOMING",
+            "startTime": "10:00:00 PM 04-10-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -622,25 +616,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248568_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248575_ENG",
-            "title": "ATP 500 - Kinoshita Group Japan Open 2026 [English]",
-            "match_name": "Kinoshita Group Show Court [English]",
-            "event_name": "ATP 500 - Kinoshita Group Japan Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-            "team_1": "Kinoshita Group Show Court",
-            "team_2": "Tokyo, Japan",
-            "status": "LIVE",
-            "startTime": "07:30:00 AM 03-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248575_ENG/english.m3u8"
                 }
             ]
         },
@@ -1124,6 +1099,19 @@
             "team_2": "Arsenal Women",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 04-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249263,
+            "title": "Las Palmas vs Real Valladolid (LALIGA Hypermotion 2026-27)",
+            "match_name": "Las Palmas vs Real Valladolid",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249263_53017_LAP_VLD_FC-Web.png",
+            "team_1": "Las Palmas",
+            "team_2": "Real Valladolid",
+            "status": "UPCOMING",
+            "startTime": "10:00:00 PM 04-10-2026",
             "user-agent": null
         }
     ]
