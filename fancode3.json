@@ -1,6 +1,6 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/10/2026, 2:24:51 pm",
+  "updatedAt": "3/10/2026, 2:45:13 pm",
   "total_matches": 40,
   "live_matches": 7,
   "upcoming_matches": 33,
@@ -40,7 +40,7 @@
     },
     {
       "category": "Cricket",
-      "title": "Jagannathpur Tigers vs Saranda Warriors [English]",
+      "title": "Saranda Warriors vs Jagannathpur Tigers [English]",
       "tournament": "West Singhbhum T20 League 2026",
       "match_id": "4250048",
       "status": "LIVE",
@@ -542,25 +542,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Jagannathpur Tigers vs Chaibasa Challengers",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250050",
-      "status": "UPCOMING",
-      "startTime": "01:00:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "South Africa Champions vs West Indies Champions",
       "tournament": "World Championship of Legends, 2026",
       "match_id": "4249219",
@@ -586,6 +567,25 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Jagannathpur Tigers vs Chaibasa Challengers",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250050",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -643,6 +643,25 @@
       "status": "UPCOMING",
       "startTime": "07:30:00 AM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Mohun Bagan Super Giant vs Punjab FC",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249603",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -719,44 +738,6 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP_Japan_Open_2026_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Mohun Bagan Super Giant vs Punjab FC",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249603",
-      "status": "UPCOMING",
-      "startTime": "05:00:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Formula 1",
-      "title": "Race",
-      "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
-      "match_id": "4248245",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 PM 04-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -852,6 +833,25 @@
       "status": "UPCOMING",
       "startTime": "06:30:00 PM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Formula 1",
+      "title": "Race",
+      "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
+      "match_id": "4248245",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
