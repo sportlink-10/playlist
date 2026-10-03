@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "01:52:57 PM 03-10-2026",
-    "generated_at": "2026-10-03 08:25:06",
+    "source_last_updated": "02:23:20 PM 03-10-2026",
+    "generated_at": "2026-10-03 08:55:07",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 6,
-    "upcoming_matches_count": 34,
+    "live_matches_count": 7,
+    "upcoming_matches_count": 33,
     "matches": [
         {
             "event_category": "Cricket",
@@ -125,6 +125,25 @@
             ]
         },
         {
+            "event_category": "Tennis",
+            "match_id": "4248561_ENG",
+            "title": "ATP 500 - China Open 2026 [English]",
+            "match_name": "Lotus Court [English]",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "Lotus Court",
+            "team_2": "Beijing, China",
+            "status": "LIVE",
+            "startTime": "02:30:00 PM 03-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248561_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4249221,
             "title": "India Champions vs Australia Champions (World Championship of Legends, 2026)",
@@ -204,19 +223,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250076,
-            "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Emirates Blues vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250076_53103_EMB_EMR_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 03-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249825,
             "title": "Brampton Blitz vs Montreal Royal Tigers (Canada Super 60, 2026)",
             "match_name": "Brampton Blitz vs Montreal Royal Tigers",
@@ -226,6 +232,19 @@
             "team_2": "Montreal Royal Tigers",
             "status": "UPCOMING",
             "startTime": "11:15:00 AM 04-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250076,
+            "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250076_53103_EMB_EMR_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Emirates Red",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 PM 03-10-2026",
             "user-agent": null
         },
         {
@@ -333,19 +352,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4248561,
-            "title": "Lotus Court vs Beijing, China (ATP 500 - China Open 2026)",
-            "match_name": "Lotus Court",
-            "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-            "team_1": "Lotus Court",
-            "team_2": "Beijing, China",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 03-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250050,
             "title": "Jagannathpur Tigers vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
@@ -398,19 +404,6 @@
             "user-agent": null
         },
         {
-            "event_category": "MotoGP",
-            "match_id": 139974,
-            "title": "Race Day vs Motegi (MOTUL GRAND PRIX OF JAPAN 2026)",
-            "match_name": "Japan GP",
-            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
-            "team_1": "Race Day",
-            "team_2": "Motegi",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 AM 04-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249223,
             "title": "India Champions vs England Champions (World Championship of Legends, 2026)",
@@ -421,6 +414,19 @@
             "team_2": "England Champions",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 04-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "MotoGP",
+            "match_id": 139974,
+            "title": "Race Day vs Motegi (MOTUL GRAND PRIX OF JAPAN 2026)",
+            "match_name": "Japan GP",
+            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
+            "team_1": "Race Day",
+            "team_2": "Motegi",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 AM 04-10-2026",
             "user-agent": null
         },
         {
@@ -681,6 +687,25 @@
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248244_ENG/english.m3u8"
                 }
             ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4248561_ENG",
+            "title": "ATP 500 - China Open 2026 [English]",
+            "match_name": "Lotus Court [English]",
+            "event_name": "ATP 500 - China Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
+            "team_1": "Lotus Court",
+            "team_2": "Beijing, China",
+            "status": "LIVE",
+            "startTime": "02:30:00 PM 03-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248561_ENG/english.m3u8"
+                }
+            ]
         }
     ],
     "upcoming_matches": [
@@ -764,19 +789,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250076,
-            "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Emirates Blues vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250076_53103_EMB_EMR_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 03-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249825,
             "title": "Brampton Blitz vs Montreal Royal Tigers (Canada Super 60, 2026)",
             "match_name": "Brampton Blitz vs Montreal Royal Tigers",
@@ -786,6 +798,19 @@
             "team_2": "Montreal Royal Tigers",
             "status": "UPCOMING",
             "startTime": "11:15:00 AM 04-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250076,
+            "title": "Emirates Blues vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250076_53103_EMB_EMR_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Emirates Red",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 PM 03-10-2026",
             "user-agent": null
         },
         {
@@ -893,19 +918,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4248561,
-            "title": "Lotus Court vs Beijing, China (ATP 500 - China Open 2026)",
-            "match_name": "Lotus Court",
-            "event_name": "ATP 500 - China Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1790593365296.png",
-            "team_1": "Lotus Court",
-            "team_2": "Beijing, China",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 03-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250050,
             "title": "Jagannathpur Tigers vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
@@ -958,19 +970,6 @@
             "user-agent": null
         },
         {
-            "event_category": "MotoGP",
-            "match_id": 139974,
-            "title": "Race Day vs Motegi (MOTUL GRAND PRIX OF JAPAN 2026)",
-            "match_name": "Japan GP",
-            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
-            "team_1": "Race Day",
-            "team_2": "Motegi",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 AM 04-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249223,
             "title": "India Champions vs England Champions (World Championship of Legends, 2026)",
@@ -981,6 +980,19 @@
             "team_2": "England Champions",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 04-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "MotoGP",
+            "match_id": 139974,
+            "title": "Race Day vs Motegi (MOTUL GRAND PRIX OF JAPAN 2026)",
+            "match_name": "Japan GP",
+            "event_name": "MOTUL GRAND PRIX OF JAPAN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Japan_Web.jpg",
+            "team_1": "Race Day",
+            "team_2": "Motegi",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 AM 04-10-2026",
             "user-agent": null
         },
         {
