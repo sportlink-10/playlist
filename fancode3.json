@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "3/10/2026, 2:45:13 pm",
+  "updatedAt": "3/10/2026, 2:55:23 pm",
   "total_matches": 40,
-  "live_matches": 7,
-  "upcoming_matches": 33,
+  "live_matches": 6,
+  "upcoming_matches": 34,
   "matches": [
     {
       "category": "Cricket",
@@ -166,39 +166,6 @@
           },
           "cookie": "hdntl=Expires=1791082182~_GO=Generated~acl=/mumbai/4248554_english_hls_9c976b03f554602_1ta-di_h264/*~Signature=ARxeIm8Rx54TYRa41PIIGQ79HMBQd9b8MzhNVuxIfIWQ9N6x5lC49K5VLbcXjYZOlodnvmzHsxaretY5J53AWhKwMHwO",
           "expires": "1791082182",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Formula 1",
-      "title": "Qualifying [English]",
-      "tournament": "F1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
-      "match_id": "4248244",
-      "status": "LIVE",
-      "startTime": "01:30:00 PM 03-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791100358~_GO=Generated~acl=/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/*~Signature=ARxeIm8LAV0T8dVmZgnpksvae9j4mTf6H-TFYgNybJhaiVU0jq9Kh1KtLt2oyzPEYmVI_XnkWMbzAXw1xmb3NJpAvskC",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/240p.m3u8?hdntl=Expires=1791100358~_GO=Generated~acl=/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/*~Signature=ARxeIm8LAV0T8dVmZgnpksvae9j4mTf6H-TFYgNybJhaiVU0jq9Kh1KtLt2oyzPEYmVI_XnkWMbzAXw1xmb3NJpAvskC",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/360p.m3u8?hdntl=Expires=1791100358~_GO=Generated~acl=/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/*~Signature=ARxeIm8LAV0T8dVmZgnpksvae9j4mTf6H-TFYgNybJhaiVU0jq9Kh1KtLt2oyzPEYmVI_XnkWMbzAXw1xmb3NJpAvskC",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/480p.m3u8?hdntl=Expires=1791100358~_GO=Generated~acl=/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/*~Signature=ARxeIm8LAV0T8dVmZgnpksvae9j4mTf6H-TFYgNybJhaiVU0jq9Kh1KtLt2oyzPEYmVI_XnkWMbzAXw1xmb3NJpAvskC",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/540p.m3u8?hdntl=Expires=1791100358~_GO=Generated~acl=/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/*~Signature=ARxeIm8LAV0T8dVmZgnpksvae9j4mTf6H-TFYgNybJhaiVU0jq9Kh1KtLt2oyzPEYmVI_XnkWMbzAXw1xmb3NJpAvskC",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/720p.m3u8?hdntl=Expires=1791100358~_GO=Generated~acl=/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/*~Signature=ARxeIm8LAV0T8dVmZgnpksvae9j4mTf6H-TFYgNybJhaiVU0jq9Kh1KtLt2oyzPEYmVI_XnkWMbzAXw1xmb3NJpAvskC",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1791100358~_GO=Generated~acl=/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/*~Signature=ARxeIm8LAV0T8dVmZgnpksvae9j4mTf6H-TFYgNybJhaiVU0jq9Kh1KtLt2oyzPEYmVI_XnkWMbzAXw1xmb3NJpAvskC"
-          },
-          "cookie": "hdntl=Expires=1791100358~_GO=Generated~acl=/mumbai/4248244_english_hls_24875b046c69353_1ta-di_h264/*~Signature=ARxeIm8LAV0T8dVmZgnpksvae9j4mTf6H-TFYgNybJhaiVU0jq9Kh1KtLt2oyzPEYmVI_XnkWMbzAXw1xmb3NJpAvskC",
-          "expires": "1791100358",
           "expire_date": ""
         }
       }
@@ -852,6 +819,25 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 04-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/F1-GULF-AIR-BAHRAIN-GRAND-PRIX-IN-MALAYSIA-2026-old-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Football",
+      "title": "Manchester City Women vs Arsenal Women",
+      "tournament": "Barclays Women's Super League 2026-27",
+      "match_id": "4249192",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 PM 04-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
